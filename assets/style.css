@@ -1,0 +1,12 @@
+body{
+  background-color: blanchedaImond;
+  font-family: 'bay jamjure';
+}
+
+#container {
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+}
