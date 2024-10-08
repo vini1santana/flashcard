@@ -33,3 +33,13 @@ criaCartao(
     'Qual país é mais rico?',
     'Luxemburgo'
 )
+criacartao(
+    'partes do corpo',
+    'Qual é o menor músculo do corpo humano',
+    'O menor músculo do corpo humano é o estapédio'
+)
+criacartao(
+    'partes do corpo',
+    'Qua é o maior músculo do corpo humano',
+    'O maior músculo do corpo humano é o glúteo'
+)
