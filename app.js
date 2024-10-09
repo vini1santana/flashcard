@@ -15,5 +15,9 @@ cartao.innerHTML = `
             </div>
         </div>
         `
+    let respostaEstaVisivel = 
+
+
+
       container.appendChild(cartao)
 }  
